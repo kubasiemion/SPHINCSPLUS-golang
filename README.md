@@ -1,3 +1,7 @@
+This is a fork of the original repo, only because I was not able to resolve the module/import issues with the original one.
+All credit go to the original author.
+
+
 # SPHINCSPLUS-golang
 
 This repository contains an implementation of the SPHINCS<sup>+</sup> signature framework as described in https://sphincs.org/data/sphincs+-round3-specification.pdf.
